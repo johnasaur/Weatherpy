@@ -1,3 +1,8 @@
+3 observations:
+
+1. The higher the latitude, the more cities are concentrated in the same temperature. For example, majority of the temperatures are concentrated between 20-60 F in the latitudes of 40-60 degrees.
+2. The humidity increases with latitude. The most concentrated humidity appears to be in the highest latitudes and highest temperatures.
+3. Lowest winds are in the higher altitudes.
 
 
 ```python
